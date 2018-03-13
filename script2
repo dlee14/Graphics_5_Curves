@@ -1,0 +1,9 @@
+hermite
+0 0 350 150 -100 -100 500 500
+hermite
+0 500 350 150 -100 -100 500 0
+circle
+240 125 0 25
+display
+save
+nose.png
